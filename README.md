@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="240" height="240" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+  <img width="200" height="200" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
 </div>
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <div>
