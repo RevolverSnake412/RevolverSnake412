@@ -1,6 +1,8 @@
 <div>
   <h1>Welcome to my Profile</h1>
-  <img align="center" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+  <div align="center">
+    <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+  </div>
 </div>
 <div>
   <h2>About me</h2>
