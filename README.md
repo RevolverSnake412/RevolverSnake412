@@ -1,7 +1,7 @@
 <div align="center">
   <img width="200" height="200" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
 </div>
-<h2 align="center">Welcome to my GitHub profile!</h2>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
   <h2>About me</h2>
   <p>Currently working on a psychological horror game ^w^</p>
