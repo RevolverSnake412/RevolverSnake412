@@ -2,7 +2,7 @@
   <div align="center">
     <img width="240" height="240" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
   </div>
-  <h2 align="center">Welcome to my Profile</h2>
+  <h2 align="center">Welcome to my GitHub profile!</h2>
 </div>
 <div>
   <h2>About me</h2>
