@@ -1,6 +1,5 @@
-### Welcome to my Profile
-
 <p align="center">
+  <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
 </p>
 <p align="center">
