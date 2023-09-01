@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-<section style="display: block;>
+<section style="display: block;">
   <h2>About me:</h2>
   <p>I am currently a student! In <a href="https://www.alxafrica.com/">ALX</a></p>
   <p>Pronouns: he/him</p>
