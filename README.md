@@ -1,6 +1,15 @@
-<div align="right" style="display: block; margin: auto">
-  <h1>Welcome to my Profile 👋</h1>
+<div style="display: inline;">
+<section>
+  <h2>About me:</h2>
+  <p>I am currently a student! In <a href="https://www.alxafrica.com/">ALX</a></p>
+  <p>Pronouns: he/him</p>
+  <h2>How to reach me?</h2>
+  <p>You can find me in Discord, I am always active. username = <snap style="color: #5865F2">revolversnake412</snap> </p>
+</section>
+<figure align="right" style="display: block; margin: auto">
+  <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+</figure>
 </div>
 
 <!--
