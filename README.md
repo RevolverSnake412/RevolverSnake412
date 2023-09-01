@@ -1,8 +1,8 @@
-<figure align="right">
+<p align="right">
   <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
-</figure>
-<section style="display: block;">
+</p>
+<section>
   <h2>About me</h2>
   <p>I am currently a student! In <a href="https://www.alxafrica.com/">ALX</a></p>
   <p>Pronouns: he/him</p>
