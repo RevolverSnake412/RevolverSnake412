@@ -1,4 +1,4 @@
-<p align="center" style="display: block;">
+<p align="center" style="display: block; margin: auto">
   <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
 </p>
