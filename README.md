@@ -1,4 +1,8 @@
-<div align="center">
+<style>
+  a {color:red;}
+</style>
+
+<div>
   <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
 </div>
