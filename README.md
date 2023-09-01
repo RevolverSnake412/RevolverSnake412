@@ -1,7 +1,7 @@
-<p align="center" style="display: block; margin: auto">
+<div align="right" style="display: block; margin: auto">
   <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
-</p>
+</div>
 
 <!--
 **RevolverSnake412/RevolverSnake412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
