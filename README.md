@@ -1,7 +1,7 @@
-<p align="right">
+<div align="right">
   <h1>Welcome to my Profile</h1>
   <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
-</p>
+</div>
 <section>
   <h2>About me</h2>
   <p>I am currently a student! In <a href="https://www.alxafrica.com/">ALX</a></p>
