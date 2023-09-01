@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my Profile
+
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+</p>
+<p>
+  <img align="center" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_border=true" />
+</p>
 
 <!--
 **RevolverSnake412/RevolverSnake412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
