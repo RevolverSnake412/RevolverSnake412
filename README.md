@@ -4,7 +4,7 @@
 </div>
 <div>
   <h2>About me</h2>
-  <p>I am currently a student! In <a href="https://www.alxafrica.com/">ALX</a></p>
+  <p>I am currently a student! In <a href="https://www.alxafrica.com/"><b>ALX</b></a>, and <b>L'Office de la formation professionnelle et de la promotion du travail</b></p>
   <p>Pronouns: he/him</p>
   <h2>How to reach me?</h2>
   <p>You can find me in Discord, I am always active.</p>
