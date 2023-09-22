@@ -16,4 +16,6 @@
 </div>
 
 ## Stats
-![RevolverSnake's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=highcontrast)
+<a href="https://github.com/RevolverSnake412">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=highcontrast)" />
+</a>
