@@ -16,4 +16,4 @@
 </div>
 
 <h2>Stats</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=dracula)(https://github.com/RevolverSnake412/github-readme-stats)
