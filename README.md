@@ -16,4 +16,4 @@
 </div>
 
 ## Stats
-(https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=radical)
+![RevolverSnake's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=radical)
