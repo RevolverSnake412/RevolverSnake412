@@ -15,4 +15,4 @@
   </ul>
 </div>
 
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&theme=dracula)
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=dracula)
