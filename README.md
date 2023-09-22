@@ -16,4 +16,4 @@
 </div>
 
 ## Stats
-![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=highcontrast&title_color=8AA8FF&border_color=8AA8FF&text_color=228B22&border_radius=0&hide=Less&langs_count=10)
+![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=false&theme=highcontrast&title_color=8AA8FF&border_color=8AA8FF&text_color=228B22&border_radius=0&hide=Less&langs_count=15)
