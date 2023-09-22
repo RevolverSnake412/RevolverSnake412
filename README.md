@@ -14,6 +14,5 @@
     <li>Discord: revolversnake412</li>
   </ul>
 </div>
-<div>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&theme=dracula)
-</div>
+
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&theme=dracula)
