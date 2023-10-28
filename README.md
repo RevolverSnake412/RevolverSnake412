@@ -5,7 +5,6 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
   <h2>About me</h2>
-  <p>Currently working on a psychological horror game ^w^</p>
   <p>I am a student! At <a href="https://www.alxafrica.com/"><b>ALX</b></a>, and "<b>L'Office de la formation professionnelle et de la promotion du travail</b>".</p>
   <p>Highly active in other Coding Bootcamps such as <a href="https://www.freecodecamp.org/learn/"><b>freecodecamp</b></a>, and other online platforms such as <a href="https://www.hackthebox.com/"><b>Hack The Box Academy</b></a>.</p>
   <ul>
@@ -22,7 +21,7 @@
   </ul>
   <h2>Collaboration?</h2>
   <p>Got a project and need collaborators? Well, I am up for anything as long as you are <b>serious</b> and willing to improve and grow. Otherwise don't bother.</p>
-  <legend>3 collab projects done so far.</legend>
+  <legend>4 collab projects done so far.</legend>
 </div>
 
 ## Stats
