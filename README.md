@@ -25,4 +25,4 @@
 </div>
 
 ## Stats
-![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&theme=highcontrast&title_color=228B22&border_color=228B22&text_color=ffffff&border_radius=0&langs_count=15&layout=compact&size_weight=0.5&count_weight=0.5&custom_title=Preferred+Languages)
+![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&theme=highcontrast&title_color=228B22&border_color=228B22&text_color=ffffff&border_radius=0&langs_count=16&layout=compact&size_weight=0.5&count_weight=0.5&custom_title=Preferred+Languages)
