@@ -1,6 +1,6 @@
 # Hello 👋
 <div align="center">
-  <img width="200" height="200" src="https://gcdnb.pbrd.co/images/CVvzMxntevZV.gif?o=1" alt="blep">
+  <img width="200" height="200" src="https://media.tenor.com/eM2nWbeTcrgAAAAi/furry-dance.gif" alt="blep">
 </div>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
