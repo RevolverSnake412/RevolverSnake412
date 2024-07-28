@@ -8,20 +8,13 @@
   <p>I am a student! At <a href="https://www.alxafrica.com/"><b>ALX</b></a>, and "<b>L'Office de la formation professionnelle et de la promotion du travail</b>".</p>
   <p>Highly active in other Coding Bootcamps such as <a href="https://www.freecodecamp.org/learn/"><b>freecodecamp</b></a>, and other online platforms such as <a href="https://www.hackthebox.com/"><b>Hack The Box Academy</b></a>.</p>
   <ul>
-    <li>Preferred name: Snake</li>
-    <li>Pronouns: he/him</li>
-    <li>Age: 20s</li>
-    <li>Currently a Student</li>
   </ul>
   <h2>How to reach me?</h2>
   <p>You can contact me in the following:</p>
   <ul>
-    <li>Discord: revolversnake412</li>
-    <li>Telegram: revolversnake412</li>
+    <li>Discord: rs110011100</li>
+    <li>Telegram: rs110011100</li>
   </ul>
-  <h2>Collaboration?</h2>
-  <p>Got a project and need collaborators? Well, I am up for anything as long as you are <b>serious</b> and willing to improve and grow. Otherwise don't bother.</p>
-  <legend>4 collab projects done so far.</legend>
 </div>
 
 ## Stats
