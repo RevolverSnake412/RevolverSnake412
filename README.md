@@ -1,19 +1,15 @@
-# Hello 👋
+# Hello! 👋
 <div align="center">
   <img width="200" height="200" src="https://gifdb.com/images/high/cute-furry-dance-9aw9nbnvvyba4ozy.webp" alt="blep">
 </div>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
   <h2>About me</h2>
-  <p>I am a student! At <a href="https://www.alxafrica.com/"><b>ALX</b></a>, and "<b>L'Office de la formation professionnelle et de la promotion du travail</b>".</p>
-  <p>Highly active in other Coding Bootcamps such as <a href="https://www.freecodecamp.org/learn/"><b>freecodecamp</b></a>, and other online platforms such as <a href="https://www.hackthebox.com/"><b>Hack The Box Academy</b></a>.</p>
-  <ul>
-  </ul>
+  <p>I work as a Software Engineer and enjoy creating games as a hobby. I am constantly enhancing my skills and knowledge in these areas. If you'd like to get in touch with me, feel free to reach out, and we can discuss further.</p>
   <h2>How to reach me?</h2>
-  <p>You can contact me in the following:</p>
   <ul>
-    <li>Discord: rs110011100</li>
-    <li>Telegram: rs110011100</li>
+    <li>Discord: revs412</li>
+    <li>Telegram: revs412</li>
   </ul>
 </div>
 
