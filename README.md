@@ -5,7 +5,9 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
   <h2>About me</h2>
-  <p>I work as a Software Engineer and enjoy creating games as a hobby. I am constantly enhancing my skills and knowledge in these areas. If you'd like to get in touch with me, feel free to reach out, and we can discuss further.</p>
+  <p>I am a recent graduate in Software Engineering and Networking Technology with a strong background in technology.</p>
+  <p>I enjoy creating Video Games, I love the power of FOSS that's why I use Godot.</p>
+  <p>Currently focusing on Python for automation and to improve my skils in CyberSec!</p>
   <h2>How to reach me?</h2>
   <ul>
     <li>Discord: revs412</li>
