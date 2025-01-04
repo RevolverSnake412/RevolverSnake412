@@ -8,11 +8,6 @@
   <p>I am a recent graduate in Software Engineering and Networking Technology with a strong background in technology.</p>
   <p>I enjoy creating Video Games, I love the power of FOSS that's why I use Godot.</p>
   <p>Currently focusing on Python for automation and to improve my skils in CyberSec!</p>
-  <h2>How to reach me?</h2>
-  <ul>
-    <li>Discord: revs412</li>
-    <li>Telegram: revs412</li>
-  </ul>
 </div>
 
 ## Stats
