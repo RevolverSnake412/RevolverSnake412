@@ -1,6 +1,6 @@
 # Hello! 👋
 <div align="center">
-  <img width="200" height="200" src="https://gifdb.com/images/high/cute-furry-dance-9aw9nbnvvyba4ozy.webp" alt="blep">
+  <img width="200" height="200" src="https://media.tenor.com/W4fin3TpJKcAAAAj/blahaj-spin.gif" alt="blep">
 </div>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <div>
