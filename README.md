@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! 👋
+<div align="center">
+  <img width="200" height="200" src="https://media.tenor.com/W4fin3TpJKcAAAAj/blahaj-spin.gif" alt="blep">
+</div>
+<h3 align="center">Welcome to my profile!</h3>
+<div>
+  <h2>About me</h2>
+  <p>I am a self-employed freelancer specializing in software engineering and computer networking.</p>
+  <p>I have a background in Video game development. I loved the power of FOSS, that's why I chose Godot.</p>
+</div>
 
-<!--
-**RevolverSnake412/RevolverSnake412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/RevolverSnake412?width=500&height=265&radius=0&theme=transparent)](https://leetcode.com/RevolverSnake412)
+![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&theme=highcontrast&title_color=228B22&border_color=228B22&text_color=ffffff&border_radius=0&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&custom_title=Preferred+Languages)
