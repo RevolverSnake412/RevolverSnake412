@@ -1,13 +1,11 @@
-# Hello! 👋
-<div align="center">
-  <img width="200" height="200" src="https://media.tenor.com/W4fin3TpJKcAAAAj/blahaj-spin.gif" alt="blep">
-</div>
-<h3 align="center">Welcome to my profile!</h3>
-<div>
-  <h2>About me</h2>
-  <p>I am a self-employed freelancer specializing in software engineering and computer networking.</p>
-  <p>I have a background in Video game development. I loved the power of FOSS, that's why I chose Godot.</p>
-</div>
+# Hello!
+
+## About me
+I am an independent technical freelancer working across software, web, automation, Linux systems, networking, and troubleshooting.
+
+I build practical systems for businesses and independent projects, with a focus on clear decisions, maintainable delivery, and real-world constraints.
+
+Portfolio: https://revs412.me
 
 ## Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple&title_color=02adff&hide_border=true&border_radius=0)](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple&title_color=02adff&hide_border=true&border_radius=0)
