@@ -12,7 +12,7 @@
 ## Stats
 <div align="left">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&layout=compact&langs_count=20&hide_progress=true&hide_title=true&hide_border=true&card_width=650&bg_color=000000&text_color=E5E7EB"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&hide_title=true&hide_border=true&langs_count=16&bg_color=000000&text_color=E5E7EB"
     alt="Top Languages"
   />
 </div>
