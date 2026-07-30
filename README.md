@@ -10,4 +10,4 @@
 </div>
 
 ## Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple&title_color=02adff&hide_border=true&border_radius=0)](https://github-stats-extended.vercel.app/api/top-langs?username=RevolverSnake412&hide_progress=true&langs_count=32&hide_values=true&disable_animations=true&theme=midnight-purple&title_color=02adff&hide_border=true&border_radius=0)
