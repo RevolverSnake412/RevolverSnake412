@@ -11,4 +11,9 @@
 
 ## Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/RevolverSnake412?width=500&height=265&radius=0&theme=transparent)](https://leetcode.com/RevolverSnake412)
-![RevolverSnake's top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=RevolverSnake412&theme=highcontrast&title_color=228B22&border_color=228B22&text_color=ffffff&border_radius=0&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&custom_title=Preferred+Languages)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&hide_title=true&hide_border=true&bg_color=000000&text_color=E5E7EB&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
