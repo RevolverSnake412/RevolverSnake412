@@ -10,9 +10,9 @@
 </div>
 
 ## Stats
-<p align="center">
+<div align="left">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&hide_title=true&hide_border=true&bg_color=000000&text_color=E5E7EB&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&layout=compact&langs_count=20&hide_progress=true&hide_title=true&hide_border=true&card_width=650&bg_color=000000&text_color=E5E7EB"
     alt="Top Languages"
   />
-</p>
+</div>
