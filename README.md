@@ -10,7 +10,6 @@
 </div>
 
 ## Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/RevolverSnake412?width=500&height=265&radius=0&theme=transparent)](https://leetcode.com/RevolverSnake412)
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=RevolverSnake412&hide_progress=true&hide_title=true&hide_border=true&bg_color=000000&text_color=E5E7EB&langs_count=8"
